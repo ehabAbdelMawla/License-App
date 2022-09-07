@@ -34,17 +34,24 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![WhatsApp Image 2022-09-07 at 7 14 56 AM](https://user-images.githubusercontent.com/51888513/188940594-ff364b5a-c0b8-4c27-9836-8238622dce0b.jpeg)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51888513/188963463-fab263ff-4ded-45f5-bc54-57c38233ec6e.jpeg"  width="350" />
+</p>
+
+
 <p>Some Application Need To Be Controlled Remotly, So We Need To Be Able To Control These Application Remotly.</p>
 <p>🤔 How To Do It !? </p>
 <p>Application Listen To Spacific Route In Website And Know If It Has License Or Not, And Listen To This Value If Changed To Open Or Close Immediatly,And Website Send Notification To Admins To Notifiy Any Changes </p> 
 
 
-### Built With
- * ReactJs
- * Redux
- * Firebase
- * Sass
+## Built With
+
+ <img src="https://user-images.githubusercontent.com/51888513/188966114-ac50454b-7d33-4985-98f9-231b6ecea713.png" width="18"/>  ReactJs <br/>
+ <img src="https://user-images.githubusercontent.com/51888513/188966462-197b7b06-72a9-45c1-a30a-bafaca93dd32.png" width="18"/>  Redux <br/>
+ <img src="https://user-images.githubusercontent.com/51888513/188966680-d7bb971d-c674-427c-ba65-d73aa7b2fbc8.png" width="18"/>  Firebase <br/>
+ <img src="https://user-images.githubusercontent.com/51888513/188966859-956aa299-5b02-4370-be67-b083b9b4cbda.png" width="18"/>  Sass <br/>
+ <img src="https://user-images.githubusercontent.com/51888513/188967120-0f015929-1bf3-43ad-a664-20c9780b8d11.png" width="18"/>  capacitor <br/>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -74,17 +81,27 @@
 ## Usage
 1. You Should Login To Your Account 
 
-![WhatsApp Image 2022-09-07 at 7 13 37 AM](https://user-images.githubusercontent.com/51888513/188944379-368068e5-29bb-40d1-8890-a0ae31c9d04b.jpeg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51888513/188964309-ea9035e4-c381-4878-ad65-5005f05381a9.jpeg"  width="350" />
+</p>
 
 2. Home Page which Contain All Applications That Subscribe With Our service 
 
-![WhatsApp Image 2022-09-07 at 7 14 56 AM](https://user-images.githubusercontent.com/51888513/188945001-c2546cd9-c28e-463b-92a5-7702b13304c7.jpeg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51888513/188963463-fab263ff-4ded-45f5-bc54-57c38233ec6e.jpeg"  width="350" />
+</p>
 
 3. Application Users And License
-
-![WhatsApp Image 2022-09-07 at 7 15 37 AM](https://user-images.githubusercontent.com/51888513/188947299-9d6e2551-9f45-4d1c-a556-54f7c711f0da.jpeg)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51888513/188964761-fe9626db-d2a5-416e-a79c-e48a36b4371c.jpeg"  width="350" />
+</p>
 <h3> <img src="https://user-images.githubusercontent.com/51888513/188924271-4554ab67-60b6-46db-9d38-b5d284bfc324.png" width="18"/><a href="https://youtu.be/nBhOdOzMA-w">  Video </a></h3>
+
+## Supported Platforms
+
+ <img src="https://user-images.githubusercontent.com/51888513/188965149-99a105e6-e79c-4c00-b92d-973f2b7701c4.png" width="18"/> Android
+ <br/>
+ <img src="https://user-images.githubusercontent.com/51888513/188965467-bb1f92ad-c7e2-4937-b613-f3f013d5bd86.png" width="18"/> Windows
 
 <!-- CONTACT -->
 ## Contact
