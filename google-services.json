@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "177597671284",
+    "firebase_url": "https://sunglassesvalidation.firebaseio.com",
+    "project_id": "sunglassesvalidation",
+    "storage_bucket": "sunglassesvalidation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177597671284:android:d85f7cddc62ab107c1ee21",
+        "android_client_info": {
+          "package_name": "codeclinic.validate.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177597671284-35rn8q6f8i5gjedbmtdu6foef9kusvm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv0yF4Ry4VSz-FxhoJk1tTz9PHFL_sP0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177597671284-35rn8q6f8i5gjedbmtdu6foef9kusvm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

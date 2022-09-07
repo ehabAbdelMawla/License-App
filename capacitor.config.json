@@ -1,0 +1,14 @@
+{
+    "appId": "codeclinic.validate.app",
+    "appName": "Code Clinic",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "linuxAndroidStudioPath": "/opt/android-studio-2021.1.1/android-studio/bin/studio.sh",
+    "plugins": {
+        "SplashScreen": {
+            "launchShowDuration": 0
+        }
+    },
+    "cordova": {}
+}
