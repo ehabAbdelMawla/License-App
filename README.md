@@ -58,9 +58,16 @@
    ```sh
    npm install
    ```
-3.Enter your Keys in `.env`
+3.Enter your Keys in `config.js`
    ```js
-   const Key = 'ENTER YOUR VALUE';
+    apiKey: "ENTER YOUR VALUE",
+    authDomain: "ENTER YOUR VALUE",
+    databaseURL: "ENTER YOUR VALUE",
+    projectId: "ENTER YOUR VALUE",
+    storageBucket: "ENTER YOUR VALUE",
+    messagingSenderId: "ENTER YOUR VALUE",
+    appId: "ENTER YOUR VALUE",
+    measurementId: "ENTER YOUR VALUE"
    ```
 
 <!-- USAGE EXAMPLES -->
