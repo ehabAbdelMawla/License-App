@@ -20,9 +20,9 @@ class ProgramDetails extends Component {
     }
 
     trustedUUids = {
-        "C51B0B53-B83E-11E6-801F-C85B76AB9DB8": "Eng : Ehab Abdel Mawla",
-        "ADA75FFF-B6A2-11E6-801F-C85B76A9B52E": "Eng : Hassan Mahmoud",
-        "33D2EF28-FCC8-11E7-8A95-8C16451B62A5": "Eng : Abdelrahman Bayoumi",
+        "uuid1": "Admin1",
+        "uuid2": "Admin2",
+        "uuid3": "Admin3",
     }
     state={
         current:""
