@@ -9,7 +9,7 @@
   <h2 align="center">License-App</h2>
 
   <p align="center">
-   Website & Android App That Allow You To Give License To Other Apps,Close Any App Very Easily
+  Website Act Like A License Service, Allow You To Give License To Other Apps,Close Any App Very Easily
    
   </p>
 </div>
