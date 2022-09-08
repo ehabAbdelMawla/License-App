@@ -47,25 +47,25 @@
 
 ## Built With
 
- <kbd><img src="https://user-images.githubusercontent.com/51888513/188966114-ac50454b-7d33-4985-98f9-231b6ecea713.png" width="18" style="border-radius:5px"/> </kbd> ReactJs <br/>
- <img src="https://user-images.githubusercontent.com/51888513/188966462-197b7b06-72a9-45c1-a30a-bafaca93dd32.png" width="18"/>  Redux <br/>
- <img src="https://user-images.githubusercontent.com/51888513/188966680-d7bb971d-c674-427c-ba65-d73aa7b2fbc8.png" width="18"/>  Firebase <br/>
- <img src="https://user-images.githubusercontent.com/51888513/188966859-956aa299-5b02-4370-be67-b083b9b4cbda.png" width="18"/>  Sass <br/>
- <img src="https://user-images.githubusercontent.com/51888513/188967120-0f015929-1bf3-43ad-a664-20c9780b8d11.png" width="18"/>  capacitor <br/>
+ <kbd><img src="https://user-images.githubusercontent.com/51888513/188966114-ac50454b-7d33-4985-98f9-231b6ecea713.png" width="18" style="border-radius:5px; margin:5px"/> </kbd> ReactJs <br/>
+  <kbd><img src="https://user-images.githubusercontent.com/51888513/188966462-197b7b06-72a9-45c1-a30a-bafaca93dd32.png" width="18" style="border-radius:5px; margin:5px"/></kbd>   Redux <br/>
+  <kbd><img src="https://user-images.githubusercontent.com/51888513/188966680-d7bb971d-c674-427c-ba65-d73aa7b2fbc8.png" width="18" style="border-radius:5px; margin:5px"/>  </kbd> Firebase <br/>
+  <kbd><img src="https://user-images.githubusercontent.com/51888513/188966859-956aa299-5b02-4370-be67-b083b9b4cbda.png" width="18" style="border-radius:5px; margin:5px"/> </kbd>  Sass <br/>
+  <kbd><img src="https://user-images.githubusercontent.com/51888513/188967120-0f015929-1bf3-43ad-a664-20c9780b8d11.png" width="18" style="border-radius:5px; margin:5px"/> </kbd>  capacitor <br/>
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 ### Installation
-1.Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/ehabAbdelMawla/License-App.git
    ```
-2.Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-3.Enter your Keys in `config.js`
+3. Enter your Keys in `config.js`
    ```js
      apiKey: "ENTER YOUR VALUE",
      authDomain: "ENTER YOUR VALUE",
@@ -96,13 +96,19 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/51888513/188972455-2bc712da-495f-4506-8156-1ff4655cbd90.png"  width="350" />
 </p>
-<h3> <img src="https://user-images.githubusercontent.com/51888513/188924271-4554ab67-60b6-46db-9d38-b5d284bfc324.png" width="18"/><a href="https://youtu.be/nBhOdOzMA-w">  Video </a></h3>
 
+4. Push Notification To Admins With Any Change:
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51888513/189063049-f4a55f06-253f-4613-b130-049c4f498085.png"  width="350" />
+</p>
+
+<h3> <img src="https://user-images.githubusercontent.com/51888513/188924271-4554ab67-60b6-46db-9d38-b5d284bfc324.png" width="18"/><a href="https://youtu.be/nBhOdOzMA-w">  Video </a></h3>
+  
 ## Supported Platforms
 
- <img src="https://user-images.githubusercontent.com/51888513/188965149-99a105e6-e79c-4c00-b92d-973f2b7701c4.png" width="18"/> Android App
+ <kbd> <img src="https://user-images.githubusercontent.com/51888513/188965149-99a105e6-e79c-4c00-b92d-973f2b7701c4.png" width="18" style="border-radius:5px; margin:5px" /></kbd>  Android App
  <br/>
- <img src="https://user-images.githubusercontent.com/51888513/188971072-7a0cb030-948d-48cd-9b78-5cc32dd32aba.png" width="18"/> Web App
+ <kbd> <img src="https://user-images.githubusercontent.com/51888513/188971072-7a0cb030-948d-48cd-9b78-5cc32dd32aba.png" width="18" style="border-radius:5px; margin:5px"/></kbd>  Web App
 
 <!-- CONTACT -->
 ## Contact
