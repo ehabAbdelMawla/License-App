@@ -6,7 +6,7 @@
   </a>
 
 
-  <h2 align="center">License-App</h2>
+  <h2 align="center">License App</h2>
 
   <p align="center">
   Website Provide a License Service, Allow You To Give License To Other Apps,Close Any App Very Easily
