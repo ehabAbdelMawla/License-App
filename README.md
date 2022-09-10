@@ -9,7 +9,7 @@
   <h2 align="center">License-App</h2>
 
   <p align="center">
-  Website Act Like A License Service, Allow You To Give License To Other Apps,Close Any App Very Easily
+  Website Provide a License Service, Allow You To Give License To Other Apps,Close Any App Very Easily
    
   </p>
 </div>
@@ -65,7 +65,7 @@
    ```sh
    npm install
    ```
-3. Enter your Keys in `config.js`
+3. Enter Your Keys in `config.js`
    ```js
      apiKey: "ENTER YOUR VALUE",
      authDomain: "ENTER YOUR VALUE",
